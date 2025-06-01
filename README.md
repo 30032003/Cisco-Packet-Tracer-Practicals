@@ -1,7 +1,7 @@
 # Cisco-Packet-Tracer-Practicals
 
 I am harshal and i love networking concepts in real life and in networking as well.
-The prctical learning of anything gives you a confidence to do it more and leraning is great.
+The prctical learning of anything gives you a confidence to do it more and learning is great.
 I strongly believe in learn by doing.
 
 These are some of my assigmnets that i buid by watching tutorials on youtube.
