@@ -1,49 +1,52 @@
-Cisco Packet Tracer Practicals
-Hi, I'm Harshal Dahiwale! 👋
+# Cisco Packet Tracer Practicals
 
-I have a deep passion for exploring networking concepts and seeing how they apply to the real world. I strongly believe in the "learn by doing" philosophy—hands-on practice is what builds true technical confidence.
+Hi, I'm Harshal Dahiwale 👋
 
-This repository contains a collection of network topologies and assignments I built from scratch while learning through various community tutorials and documentation.
+This repository contains the Cisco Packet Tracer practicals and network topologies I worked on while learning networking as part of my CDAC PG-DITISS course.
 
-🚀 What You Will Learn in These Exercises
-This repository covers everything from basic device communication to complex server configurations and automated network services.
+The main focus of these practicals is to understand networking concepts by configuring devices, connecting networks, and testing how different protocols and services work.
 
-Core Networking & Topologies
-Cisco Packet Tracer Interface: Navigating logical vs. physical workspace models, real-time mode, and simulation tools.
+## 📌 Practicals Covered
 
-Basic Connectivity: Connecting end devices (PCs, Laptops) using proper cabling (Straight-Through vs. Crossover).
+### Basic Networking & Topologies
 
-Star Topology: Implementing localized networks centered around local switches.
+* Cisco Packet Tracer basics and simulation mode
+* Connecting PCs, laptops, switches, and routers
+* Basic network connectivity and IP configuration
+* Star topology
+* Switch-to-switch connections and trunking
+* Inter-VLAN routing
+* Subnetting and IP addressing
 
-Switch-to-Switch Trunking: Expanding local networks by interconnecting multiple switches.
+### Network Services
 
-Inter-VLAN Routing: Using routers to bridge and route traffic between distinct switch networks.
+* DHCP server configuration
+* DNS server configuration
+* HTTP/Web server
+* FTP server
+* Email server using SMTP and POP3
 
-Network Services & Server Simulations
-DHCP Server: Configuring dynamic, automated IP address assignment for client pools.
+### Additional Practicals
 
-DNS Server: Setting up domain name resolution to map URLs to IP addresses.
+* Wireless network configuration using Access Points
+* IoT devices and basic smart-home simulations
+* Packet Tracer simulation mode and PDU analysis
+* Tracing packets to understand how data moves through a network
 
-HTTP/Web Server: Hosting and accessing basic simulated web pages across the network.
+## 🛠️ Tools & Concepts
 
-FTP Server: Testing secure file transfers, permissions, and remote storage access.
+**Tool:** Cisco Packet Tracer
 
-Email Server: Simulating SMTP and POP3 protocols for local mailbox messaging.
+**Devices:**
+PCs, Laptops, Switches, Routers, Servers, Access Points and IoT devices
 
-Advanced Features
-Wireless Networks: Integrating Access Points (APs) to connect wireless clients.
+**Concepts:**
+IP Addressing, Subnetting, VLANs, Trunking, Inter-VLAN Routing, DHCP, DNS, HTTP, FTP, SMTP, POP3 and basic packet analysis.
 
-IoT Simulation: Setting up smart devices and smart-home automation sensors within a simulated environment.
+## 🎯 Purpose
 
-PDU Tracing: Utilizing Data Packet Transfers (PDUs) in simulation mode to visually analyze packet flow, headers, and protocol behavior step-by-step.
+These practicals helped me understand networking concepts through configuration and testing rather than only studying them theoretically.
 
-🛠️ Network Components & Concepts Used
-Hardware Emulated: PCs, Laptops, Cisco Switches, Cisco Routers, Generic Servers, Access Points, and Smart IoT Devices.
+The repository is mainly a collection of my practice work and can also be useful for anyone revising basic networking concepts using Cisco Packet Tracer.
 
-Media & Cabling: Copper Straight-Through, Copper Cross-over, and Wireless connections.
-
-Software Layer: Static & Dynamic IP Configuration, Subnetting, Protocol analysis, and Packet inspection.
-
-"The practical learning of anything gives you the confidence to do it more."
-
-Feel free to explore the lab files, check out the architectures in simulation mode, and reach out if you want to chat about cloud, infrastructure, or networking!
+Feel free to explore the practical files and topologies.
